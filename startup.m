@@ -8,6 +8,7 @@ elseif isunix % Linux computer
     addpath ~/matlab/share/
     addpath ~/matlab/share/figure
     addpath ~/matlab/share/math
+    addpath ~/matlab/share/plotf
     addpath ~/matlab/share/rotation
     addpath ~/matlab/share/time
 elseif ispc
