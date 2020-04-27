@@ -6,6 +6,7 @@ if ismac
     % do nothing
 elseif isunix % Linux computer
     addpath ~/matlab/share/
+    addpath ~/matlab/share/algo
     addpath ~/matlab/share/figure
     addpath ~/matlab/share/math
     addpath ~/matlab/share/plotf

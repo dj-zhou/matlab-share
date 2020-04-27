@@ -1,0 +1,6 @@
+plot origin
+plot curve in 3D 
+etc
+plot line dot vec 3D: need to revise
+
+plot vec 3D: seems wrong
